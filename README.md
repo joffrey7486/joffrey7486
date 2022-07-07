@@ -21,3 +21,7 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61D)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## 📈 Stats
+![](https://github.com/Beygs/gh-stats/blob/master/generated/overview.svg)
+![](https://github.com/Beygs/gh-stats/blob/master/generated/languages.svg)
