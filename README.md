@@ -25,5 +25,4 @@
 </p>
 
 ### 📈 Stats
-[![GHstats](https://github-readme-stats.vercel.app/api?username=joffrey7486&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joffrey7486&layout=compact&theme=radical)](https://github.com/joffrey7486/github-readme-stats)]
+![GHstats](https://github-readme-stats.vercel.app/api?username=joffrey7486&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joffrey7486&layout=compact&theme=radical)](https://github.com/joffrey7486/github-readme-stats)
