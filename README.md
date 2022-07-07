@@ -23,5 +23,5 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📈 Stats
-![](https://github.com/Joffrey7486/gh-stats/blob/master/generated/overview.svg)
-![](https://github.com/Joffrey7486/gh-stats/blob/master/generated/languages.svg)
+![](https://github.com/joffrey7486/gh-stats/blob/master/generated/overview.svg)
+![](https://github.com/joffrey7486/gh-stats/blob/master/generated/languages.svg)
