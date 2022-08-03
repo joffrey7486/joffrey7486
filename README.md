@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Bonjour à tous !</h1>
+<h1 align="center">Bonjour à tous 👋</h1>
 <h3 align="center">Aspirant développeur web français, ancien élève au bootcamp The Hacking Project.</h3>
 
 ## 🔧 Technologies et outils
